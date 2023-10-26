@@ -21,15 +21,15 @@
 </head>
 <body>
   <header>
-    <a href="<?= $BASE_URL ?>" id="logo">
-      <img src="<?= $BASE_URL ?>/img/logo.svg" alt="Blog Codar">
+   <a href="<?= $BASE_URL ?>" id="logo">
+      <img src="<?= $BASE_URL ?>/img/logo.jpg" alt=" Blog">
     </a>
     <nav>
       <ul id="navbar">
-        <li><a href="<?= $BASE_URL ?>" class="nav-link">Home</a></li>
-        <li><a href="#" class="nav-link">Categorias</a></li>
+        <li><a href="index.php" class="nav-link">Home</a></li>
+        <li><a href="categorias.php" class="nav-link">Categorias</a></li>
         <li><a href="sobre.php" class="nav-link">Sobre</a></li>
-        <li><a href="contato.php" class="nav-link" >Contato</a></li>
+        <li><a href="contato.php" class="nav-link">Contato</a></li>
       </ul>
     </nav>
   </header>
@@ -140,7 +140,7 @@ footer {
 
     </style>
     <footer>
-  <p>Hora de Codar &copy; 2020</p>
+  <p>I.A Sapace Blog &copy; 2023</p>
 </footer>
 </body>
 </html>

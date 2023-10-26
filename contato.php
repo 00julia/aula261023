@@ -9,12 +9,12 @@
 <body>
 <header>
     <a href="<?= $BASE_URL ?>" id="logo">
-      <img src="<?= $BASE_URL ?>/img/logo.svg" alt="Blog Codar">
+      <img src="<?= $BASE_URL ?>/img/logo.jpg" alt="Blog Codar">
     </a>
     <nav>
       <ul id="navbar">
-        <li><a href="<?= $BASE_URL ?>" class="nav-link">Home</a></li>
-        <li><a href="#" class="nav-link">Categorias</a></li>
+        <li><a href="index.php" class="nav-link">Home</a></li>
+        <li><a href="categorias.php" class="nav-link">Categorias</a></li>
         <li><a href="sobre.php" class="nav-link">Sobre</a></li>
         <li><a href="contato.php" class="nav-link">Contato</a></li>
       </ul>
@@ -46,7 +46,7 @@
   <br>
 
   <footer>
-  <p>Hora de Codar &copy; 2020</p>
+  <p>I.A Space Blog &copy; 2023</p>
   </footer>
 
   <style>
@@ -149,6 +149,22 @@ footer {
   padding: 50px 0;
   top: 550px;
 }
+* {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100vh;
+  position: relative;
+}
+
+main {
+  margin-bottom: 250px;
+}
+
   </style>
 
 </html>
