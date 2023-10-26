@@ -1,11 +1,9 @@
 <?php
 
   $categories = [
-    'PHP',
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'Bootstrap',
-    'Java',
-    'C#'
+    'I.A',
+    'Dia a Dia',
+    'Tecnologia Invisivel',
+    'Segurança',
+    'CyberSegurança',
   ];
