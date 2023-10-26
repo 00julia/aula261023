@@ -11,7 +11,7 @@
           
           <h2 class="post-title2">
             <a href="<?= $BASE_URL ?>post.php?id=<?= $post['id'] ?>"><?= $post['title'] ?></a>
-            <img src="<?= $BASE_URL ?>/img/<?= $post['img'] ?>" alt="<?= $post['title'] ?>">
+            <a href="<?= $BASE_URL ?>post.php?id=<?= $post['id'] ?>"><img src="<?= $BASE_URL ?>/img/<?= $post['img'] ?>" alt="<?= $post['title'] ?>"></a>
           </h2>
           
         </div>
