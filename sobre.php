@@ -52,15 +52,15 @@ main {
 .t0{
     font-family: 'Merriweather', serif;
     font-size: 30px;
-    margin-left: 450px;
-    margin-top: 45px;
+    margin-left: 40%;
+    margin-top: 55px;
 }
 
 .t1{
             color: black;
             width: 800px;
-            margin-left: 240px;
-            margin-top: 50px;
+            margin-left: 26%;
+            margin-top: 60px;
             font-family: 'Merriweather', serif;
             font-size: 20px;
         }

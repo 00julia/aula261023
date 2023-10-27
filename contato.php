@@ -52,6 +52,7 @@
     font-size: 16px;
     border: none;
     width: 400px;
+    margin-left: 80%;
     
   }
   
@@ -61,12 +62,14 @@
     padding: 20px;
     margin-top: 10px;
     text-align: center;
+    margin-left: 8%;
   
   }
   
   h2 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
+    margin-left: 80%;
   }
   
   .button {
@@ -82,6 +85,7 @@
     position: relative;
     align-items: center;
     margin-top: 10px;
+    margin-left: 80%;
   }
   
   .button textarea {
