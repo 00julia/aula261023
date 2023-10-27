@@ -44,14 +44,14 @@
   <style>
     * .forms1{
     padding: 5px;
-    margin-top: 10px;
+    margin-top: 12px;
     display: block;
     margin-bottom: 5px;
     background-color: #e8e8e8;
     border-radius: 8px;
     font-size: 16px;
     border: none;
-    width: 400px;
+    width: 600px;
     margin-left: 80%;
     
   }
@@ -60,7 +60,7 @@
     font-family:'font-family:' 'Montserrat', sans-serif;
     font-size: 37px;
     padding: 20px;
-    margin-top: 10px;
+    margin-top: 12px;
     text-align: center;
     margin-left: 8%;
   
@@ -97,7 +97,7 @@
     position: absolute;
     left: 180px; 
     top: 150px; 
-    width: 300px;
+    width: 350px;
     border-radius: 30px;
   
   
@@ -106,7 +106,7 @@
       
     position: absolute;
     left: 600px;
-    top: 165px;
+    top: 200px;
     width: 225px;
   }
   #navbar {
@@ -143,7 +143,7 @@ footer {
   background-color: rgb(0, 145, 255);;
   color: #FFF;
   padding: 50px 0;
-  top: 550px;
+  top: 650px;
 }
 * {
   font-family: 'Montserrat', sans-serif;
