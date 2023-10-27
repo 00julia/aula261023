@@ -21,17 +21,10 @@
 </head>
 <body>
   <header>
-   <a href="<?= $BASE_URL ?>" id="logo">
-      <img src="<?= $BASE_URL ?>/img/logo.jpg" alt=" Blog">
-    </a>
-    <nav>
-      <ul id="navbar">
-        <li><a href="index.php" class="nav-link">Home</a></li>
-        <li><a href="categorias.php" class="nav-link">Categorias</a></li>
-        <li><a href="sobre.php" class="nav-link">Sobre</a></li>
-        <li><a href="contato.php" class="nav-link">Contato</a></li>
-      </ul>
-    </nav>
+  <?php
+  include_once("templates/header.php");
+?>
+  
   </header>
 
 <p class=t0>Sobre a IA SPACE BLOG!</p>
